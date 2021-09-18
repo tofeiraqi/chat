@@ -34,13 +34,13 @@ $(`<img style="width:100%;    margin-top: 0px;pointer-events:none;margin-bottom:
 
 " >
 <div id="asim13"><a id="asim21" href="contact.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اتصل بنا</a>
-<a id="asim21" href="rules.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">القوانين</a>
-<a id="asim21" href="Shortcut.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اختصارات </a>
-<a id="asim21" href="https://blog.jfa-w.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">المدونة</a>
-<a id="asim22" href="mobile.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">التطبيق</a>
-<a id="asim22" href="sub.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الآشتراكات</a>
-<a id="asim22" href="https://www.abraj2015.com/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الأبراج</a>
-<a id="asim22" href="https://www.wadhefa.com/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">وظائف</a></div></div><center>`).insertBefore('.nav-tabs'),$('.nav-tabs').addClass('fl').css('width','100%'),$('.tc span[class="fa fl"]').addClass('fa-check');var nopm=!0,nonot=!0;$('.hand.nosel.fl.uzr.border').css({margin:'1px 0',borderRadius:'0px'}),$(`<div><marquee direction="right" id="as43"scrollamount="3">اهلا وسهلا بكم
+<a id="asim21" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">القوانين</a>
+<a id="asim21" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اختصارات </a>
+<a id="asim21" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">المدونة</a>
+<a id="asim22" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">التطبيق</a>
+<a id="asim22" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الآشتراكات</a>
+<a id="asim22" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الأبراج</a>
+<a id="asim22" href="https://www.ghalaa.net/" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">وظائف</a></div></div><center>`).insertBefore('.nav-tabs'),$('.nav-tabs').addClass('fl').css('width','100%'),$('.tc span[class="fa fl"]').addClass('fa-check');var nopm=!0,nonot=!0;$('.hand.nosel.fl.uzr.border').css({margin:'1px 0',borderRadius:'0px'}),$(`<div><marquee direction="right" id="as43"scrollamount="3">اهلا وسهلا بكم
 
  <font class="a">   في شات الغلا للجوال </font>  نهني أنفسنا بحلول اليوم الوطني المجيد لأنه يحي بداخلنا شدة الانتماء إلى بلدنا الحبيب واعتزازً بوطننا.
 
@@ -55,8 +55,8 @@ $(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/bahren/28f12e8c
 </style>`).insertBefore('body');function logout(){setTimeout(function(){close(0)})}
 
 (document.getElementById("tbox").placeholder = "( دأم عزك يأوطن )");
-$(`<center><div><div width="99.5%" style="background-image:url();color: #ffffff;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#378a47;padding-bottom: 2px!important;" ><font style="background-color: #378a47;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px ;margin: 7px 10px 7px 10px;" >حيأكم الله بشات جفى للجوال</font></div></div><center>`).insertBefore('#d2');
+$(`<center><div><div width="99.5%" style="background-image:url();color: #ffffff;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#378a47;padding-bottom: 2px!important;" ><font style="background-color: #378a47;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px ;margin: 7px 10px 7px 10px;" >حيأكم الله بشات الغلا للجوال</font></div></div><center>`).insertBefore('#d2');
 $('.break.light').css({"background-image":"url()"});
 $('.break.light').css({"background-image":"url()"});
- $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لوحة تحكم شأت رنات ") 
+ $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لوحة تحكم شأت الغلا ") 
  
