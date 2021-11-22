@@ -9,11 +9,11 @@ btn btn-primary">قوانين الموقع</a>
 btn btn-default">اتصل بنا</a>
  `).insertBefore('.nav-tabs');$("div#tlogins button.btn.btn-primary").click(function(){var myVar=setInterval(function(){var usmsgw=$(".pmsgc").length;if(usmsgw>0){$(`
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://chatjawwal.com/sico/z1e3i6isuu10.jpg);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://jzaan.com/sico/z1fl45ldl610.jpg);" class="fl fitimg hand u-pic    ">
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
           <img class="fl u-ico" alt="" src="    >
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">شات جيزان</span>
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">⅍ نہجہمہه الموقع</span>
         </div>
         <br>
       <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl" bis_skin_checked="1">
