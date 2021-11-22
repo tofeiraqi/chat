@@ -17,7 +17,7 @@ btn btn-default">اتصل بنا</a>
         </div>
         <br>
       <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl" bis_skin_checked="1">
-        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl" bis_skin_checked="1"> مرحباً بك 👋 <h1 style="display: inline-block;color: red;">1234</h1>    نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله في شات جيزان للجوال</div>
+        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl" bis_skin_checked="1"> مرحباً بك 👋 <h1 style="display: inline-block;color: red;">`+getuser(myid).topic+`</h1>    نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله في شات جيزان للجوال</div>
       </div>
     `).appendTo('div#d2')
 clearInterval(myVar);}else{console.log(usmsgw)}},2000);})
